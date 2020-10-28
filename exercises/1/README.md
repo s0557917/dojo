@@ -29,7 +29,7 @@ Note that the official documentation of VueJS does not recommend using `vue-cli`
 
 Either way is fine, using `vue-cli` is easier but setting up VueJS yourself might be more educational.
 
-Put your code somewhere in this repository. We suggest a monorepo approch with a folder `webapp` below the repository's root folder.
+Put your code somewhere in this repository. We suggest a monorepo approach with a folder `webapp` below the repository's root folder.
 
 ### Objectives
 
